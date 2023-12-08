@@ -9,3 +9,5 @@ We also recommended the categories of the customers to be target:
 1. Clients with lower income
 2. Clients with lack of formal education
 3. Customers with a low ratio of average utilization
+
+# Can see the code and visualization in the above jupyter notebook
